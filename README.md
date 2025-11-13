@@ -66,7 +66,9 @@ Examines how workload factors relate to burnout:
 - Scatter: Average Weekly Hours vs Burnout Index  
 - Heatmap: Stress vs Sleep Quality  
 - Bar: Work-Life Balance vs Burnout Index  
-- Line: Training Hours vs Burnout Rate  
+- Line: Training Hours vs Burnout Rate
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/32b55ff9-df77-4693-9a13-0e189292aa61" />
+
 
 ### 3️⃣ Department & Performance Insights  
 Highlights departmental and role-level variations:  
@@ -74,7 +76,8 @@ Highlights departmental and role-level variations:
 - R&D and Finance maintain strong performance despite moderate burnout  
 - Technical roles (Engineers, Analysts) show lower burnout risks  
 
-*(Visuals can be inserted here)*  
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/94e7e7f4-28e0-4105-b6a1-d7060f50743b" />
+
 
 ---
 
