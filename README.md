@@ -56,7 +56,9 @@ Presents organizational health indicators and summary KPIs:
 - Average Burnout Index: **25.9**  
 - Average Stress Level: **3.3 / 10**  
 - Wellness Score: **86**  
-- High-Risk Employees: **22**  
+- High-Risk Employees: **22**
+(Visuals/Executive overview.png)
+
 
 ### 2️⃣ Workforce Productivity & Burnout Analysis  
 Examines how workload factors relate to burnout:  
