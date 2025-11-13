@@ -57,7 +57,8 @@ Presents organizational health indicators and summary KPIs:
 - Average Stress Level: **3.3 / 10**  
 - Wellness Score: **86**  
 - High-Risk Employees: **22**
-(Visuals/Executive overview.png)
+<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/691e51c6-8ff0-44b8-94aa-23863db4e9ab" />
+
 
 
 ### 2️⃣ Workforce Productivity & Burnout Analysis  
